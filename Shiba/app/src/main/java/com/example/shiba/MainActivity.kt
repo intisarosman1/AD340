@@ -12,7 +12,7 @@ class gMainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val food = findViewById<Button>(R.id.button)
-        food.text = "Food" 
+        food.text = "Food"
 
         val touch = findViewById<Button>(R.id.button2)
         touch.text = "Touch"
