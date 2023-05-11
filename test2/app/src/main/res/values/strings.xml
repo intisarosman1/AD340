@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favorites</string>
+    <string name="movie1">Little Women</string>
+    <string name="movie2">Bullet Train</string>
+    <string name="movie3">Scream 6</string>
+    <string name="place1">The Outlet Collection</string>
+    <string name="place2">Cafes</string>
+</resources>
