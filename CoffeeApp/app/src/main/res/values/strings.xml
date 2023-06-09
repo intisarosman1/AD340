@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="coffee_select">Tap the coffee plant to select coffee beans</string>
+    <string name="coffee_grind">Keep tapping the beans to grind them</string>
+    <string name="coffee_drink">Tap the mug to drink it</string>
+    <string name="empty_mug">Tap the empty mug to start again</string>
+    <string name="coffee_plant_content_description">Coffee plant</string>
+    <string name="beans_content_description">Coffee Beans</string>
+    <string name="drink_content_description">Mug of Coffee</string>
+    <string name="empty_content_description">Empty mug</string>
+</resources>
