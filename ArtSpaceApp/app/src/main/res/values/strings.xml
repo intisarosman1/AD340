@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="monet1">Woman with a Parasol</string>
+    <string name="monet2">Impression, Sunrise</string>
+    <string name="monet3">The Beach at Sainte-Adresse</string>
+    <string name="monet4">Garden at Sainte-Adresse</string>
+    <string name="date1">(1875)</string>
+    <string name="date2">(1872)</string>
+    <string name="date3">(1867)</string>
+    <string name="date4">(1867)</string>
+</resources>
